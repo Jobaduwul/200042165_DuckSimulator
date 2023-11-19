@@ -1,0 +1,7 @@
+C:\Users\kazij\OneDrive - iut-dhaka.edu\IUT\5th Semester\SWE4501 Design Patterns\DuckSimulator\bin\Debug\DuckSimulator.exe.config
+C:\Users\kazij\OneDrive - iut-dhaka.edu\IUT\5th Semester\SWE4501 Design Patterns\DuckSimulator\bin\Debug\DuckSimulator.exe
+C:\Users\kazij\OneDrive - iut-dhaka.edu\IUT\5th Semester\SWE4501 Design Patterns\DuckSimulator\bin\Debug\DuckSimulator.pdb
+C:\Users\kazij\OneDrive - iut-dhaka.edu\IUT\5th Semester\SWE4501 Design Patterns\DuckSimulator\obj\Debug\DuckSimulator.csproj.AssemblyReference.cache
+C:\Users\kazij\OneDrive - iut-dhaka.edu\IUT\5th Semester\SWE4501 Design Patterns\DuckSimulator\obj\Debug\DuckSimulator.csproj.CoreCompileInputs.cache
+C:\Users\kazij\OneDrive - iut-dhaka.edu\IUT\5th Semester\SWE4501 Design Patterns\DuckSimulator\obj\Debug\DuckSimulator.exe
+C:\Users\kazij\OneDrive - iut-dhaka.edu\IUT\5th Semester\SWE4501 Design Patterns\DuckSimulator\obj\Debug\DuckSimulator.pdb
